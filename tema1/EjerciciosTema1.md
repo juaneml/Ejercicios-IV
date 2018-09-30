@@ -36,6 +36,7 @@ Usando las tablas de precios de servicios de alojamiento en Internet "clásicos"
 
 ![Vps](https://github.com/juaneml/Ejercicios-IV/tree/master/tema1/imagenes/vps.png)
 
+
 ## Ejercicios 3.
 En general, cualquier ordenador con menos de 5 o 6 años tendrás estos flags. ¿Qué modelo de procesor es? ¿Qué aparece como salida de esa orden? si usas una máquina virtual, ¿qué resultado da? ¿Y una Raspberry Pi o, si tienes acceso, el procesador del móvil?
 
