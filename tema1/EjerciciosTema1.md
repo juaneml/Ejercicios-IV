@@ -37,3 +37,7 @@ Usando las tablas de precios de servicios de alojamiento en Internet "clásicos"
 
 ## Ejercicios 3.
 En general, cualquier ordenador con menos de 5 o 6 años tendrás estos flags. ¿Qué modelo de procesor es? ¿Qué aparece como salida de esa orden? si usas una máquina virtual, ¿qué resultado da? ¿Y una Raspberry Pi o, si tienes acceso, el procesador del móvil?
+
+## Ejercicios 4.
+1. Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok. Alternativamente(o además), usar lscpu como se indica arriba.
+2. Instalar un hivervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
