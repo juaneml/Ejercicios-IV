@@ -67,7 +67,7 @@ Para obtener la información del MacBook pro hago uso del siguiente comando :
 ***sysctl -n machdep.cpu.brand_string***
 
 Dado que utilizo una máquina virtual de Ubuntu la salida que me aparece es vacío, está desactivado.
-![salida]()
+![salida](https://github.com/juaneml/Ejercicios-IV/blob/master/tema1/imagenes/egrep.png?raw=true "salida")
 ## Ejercicios 4.
 1. Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok. Alternativamente(o además), usar lscpu como se indica arriba.
 2. Instalar un hivervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
