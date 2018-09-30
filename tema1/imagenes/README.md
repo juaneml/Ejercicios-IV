@@ -1,1 +1,1 @@
-Capturas de pantallas
+Capturas de pantalla.
