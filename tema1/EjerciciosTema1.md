@@ -30,3 +30,10 @@ Velocidad de memoria del reloj: 2400 MHz.
 **Amortización a 7 años**
 - El cálculo de la amortización es 1729/7 = 247€.
 - Por tanto la amortización a 7 años es de 247€.
+
+## Ejercicios 2.
+Usando las tablas de precios de servicios de alojamiento en Internet "clásicos", es decir que ofrezcan Virtual Private Servers o servidores físicos, y de proveedores de servicios en la nube, comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se usa sólo el 1% o el 10% del tiempo.
+
+
+## Ejercicios 3.
+En general, cualquier ordenador con menos de 5 o 6 años tendrás estos flags. ¿Qué modelo de procesor es? ¿Qué aparece como salida de esa orden? si usas una máquina virtual, ¿qué resultado da? ¿Y una Raspberry Pi o, si tienes acceso, el procesador del móvil?
