@@ -36,16 +36,28 @@ Usando las tablas de precios de servicios de alojamiento en Internet "clásicos"
 
 ### Configuración Vitual Private Servers [dinahosting](https://dinahosting.com/vps/configurador/modelo-1)
 Hemos escogido para el Virtual Private Servers la empresa dinahosting y hemos escogido esta configuración que mostramos en la siguiente imagen.
-El coste mensual es de 162€
+El coste mensual es de ***162€***
 
 ![Vps](https://github.com/juaneml/Ejercicios-IV/blob/master/tema1/imagenes/vps.png?raw=true "Vps")
 
-Para el caso de que la infraestructura se usa sólo el 1%
- -162€ x 12 meses x 0.01 = 19.44€/año
+**Para el caso de que la infraestructura se usa sólo el 1%**
+- 162€ x 12 meses x 0.01 = 19.44€/año
 
-Para el caso de que la infraestructura se usa sólo el 10%
- -162€ x 12 meses x 0.1 = 194.4€/año
- ![Cloud](https://github.com/juaneml/Ejercicios-IV/blob/master/tema1/imagenes/cloud.png "Cloud")
+**Para el caso de que la infraestructura se usa sólo el 10%**
+- 162€ x 12 meses x 0.1 = 194.4€/año
+
+Hemos escogido el proveedor de servidcios en la nube [acens](https://www.acens.com/cloud/cloud-servers/)
+y hemos escogido esta configuración que aparece en la imagen, la configuración es ***One Cloud L***
+El coste mensual es de ***59.90€***
+
+![Cloud](https://github.com/juaneml/Ejercicios-IV/blob/master/tema1/imagenes/cloud.png "Cloud")
+
+**Para el caso de que la infraestructura se usa sólo el 1%**
+- 59.90€ x 12 meses x 0.01 = 7.188 €/año
+
+**Para el caso de que la infraestructura se usa sólo el 10%**
+- 59.90€ x 12 meses x 0.1 = 71.88 €/año
+
 ## Ejercicios 3.
 En general, cualquier ordenador con menos de 5 o 6 años tendrás estos flags. ¿Qué modelo de procesor es? ¿Qué aparece como salida de esa orden? si usas una máquina virtual, ¿qué resultado da? ¿Y una Raspberry Pi o, si tienes acceso, el procesador del móvil?
 
