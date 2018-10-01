@@ -76,6 +76,7 @@ Dado que utilizo una máquina virtual de Ubuntu la salida que me aparece es vac�
 ![kvm-ok](https://github.com/juaneml/Ejercicios-IV/blob/master/tema1/imagenes/kvm-ok.png)
 
 - Salida de lscpu
+
 ![lscpu](https://github.com/juaneml/Ejercicios-IV/blob/master/tema1/imagenes/lscpu.png?raw=true "lscpu")
 
 2. Instalar un hivervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
