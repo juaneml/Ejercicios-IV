@@ -70,7 +70,16 @@ Dado que utilizo una máquina virtual de Ubuntu la salida que me aparece es vac�
 ![salida](https://github.com/juaneml/Ejercicios-IV/blob/master/tema1/imagenes/egrep.png?raw=true "salida")
 ## Ejercicios 4.
 1. Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok. Alternativamente(o además), usar lscpu como se indica arriba.
+Salida del comando kvm-ok, después de su instalación
+
+![kvm-ok](https://github.com/juaneml/Ejercicios-IV/blob/master/tema1/imagenes/kvm-ok.png)
+
+Salida de lscpu
+![lscpu](https://github.com/juaneml/Ejercicios-IV/blob/master/tema1/imagenes/lscpu.png?raw=true "lscpu")
+
 2. Instalar un hivervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
+
+La instalación de hivervisor para gestionar máquinas virtuales es VirtualBox
 
 ## Ejercicios 5.
 1. Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.
