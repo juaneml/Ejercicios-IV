@@ -71,11 +71,11 @@ Dado que utilizo una máquina virtual de Ubuntu la salida que me aparece es vac�
 ## Ejercicios 4.
 1. Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok. Alternativamente(o además), usar lscpu como se indica arriba.
 
-- Salida del comando kvm-ok, después de su instalación
+- Salida del comando kvm-ok, después de su instalación.
 
 ![kvm-ok](https://github.com/juaneml/Ejercicios-IV/blob/master/tema1/imagenes/kvm-ok.png)
 
-- Salida de lscpu
+- Salida de lscpu.
 
 ![lscpu](https://github.com/juaneml/Ejercicios-IV/blob/master/tema1/imagenes/lscpu.png?raw=true "lscpu")
 
@@ -85,6 +85,10 @@ La instalación de hivervisor para gestionar máquinas virtuales es VirtualBox
 
 ## Ejercicios 5.
 1. Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.
+
+Actualmente tengo una cuenta de azure que abrí hace tiempo y tengo algunos ejemplos como podemos ver en la imagen.
+
+![azure](https://github.com/juaneml/Ejercicios-IV/blob/master/tema1/imagenes/azure.png?raw=true "azure")
 
 ## Ejercicios 6.
 1. Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube anteriores.
