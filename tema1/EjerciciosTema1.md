@@ -82,6 +82,7 @@ Dado que utilizo una máquina virtual de Ubuntu la salida que me aparece es vac�
 2. Instalar un hivervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
 
 La instalación de hivervisor para gestionar máquinas virtuales es VirtualBox
+![virtualbox](https://github.com/juaneml/Ejercicios-IV/blob/master/tema1/imagenes/virtualBox.png?raw=true "virtualBox")
 
 ## Ejercicios 5.
 1. Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.
@@ -92,3 +93,6 @@ Actualmente tengo una cuenta de azure que abrí hace tiempo y tengo algunos ejem
 
 ## Ejercicios 6.
 1. Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube anteriores.
+
+Usamos OpenStack y nos registramos en la plataforma, en la siguiente imagen podemos ver mi perfil en OpenStack.
+![openStack](https://github.com/juaneml/Ejercicios-IV/blob/master/tema1/imagenes/openStack.png?raw=true "openStack")
