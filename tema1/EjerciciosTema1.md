@@ -38,7 +38,7 @@ Usando las tablas de precios de servicios de alojamiento en Internet "clásicos"
 Hemos escogido para el Virtual Private Servers la empresa dinahosting y hemos escogido esta configuración que mostramos en la siguiente imagen.
 El coste mensual es de ***171.37€***
 
-![Vps](https://github.com/juaneml/Ejercicios-IV/blob/master/tema1/imagenes/vps.png?raw=true "Vps")
+![Vps](https://github.com/juaneml/Ejercicios-IV/blob/master/tema1/imagenes/vps_2.png?raw=true "Vps")
 
 **Para el caso de que la infraestructura se usa sólo el 1%**
 - 171.37€ x 12 meses x 0.01 = 20.56€/año
@@ -73,7 +73,7 @@ flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36
 
 **Procesador portátil**: ***Intel(R) Core(TM) i7-3740QM CPU @ 2.70GHZ***
 
-![cat /proc/cpuinfo]/(https://github.com/juaneml/Ejercicios-IV/blob/master/tema1/imagenes/cpu_info.png?raw=true)
+![cat /proc/cpuinfo](https://github.com/juaneml/Ejercicios-IV/blob/master/tema1/imagenes/cpu_info.png?raw=true)
 Para obtener la información hago uso del siguiente comando :
 ***cat /proc/cpuinfo***
 
